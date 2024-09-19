@@ -1,2 +1,11 @@
 # Macrophytes-in-Aquitanian-shallow-lakes
 Repository for the paper titled "Model-Based Management of Native and Invasive Macrophytes in Shallow Lakes of South-Western France Under Warming"
+
+# Abstract
+Macrophytes are a critical component of freshwater ecosystems, harboring significant biodiversity and providing essential resources and services. However, their habitat faces multifaceted challenges from global change, local anthropogenic disturbance, and biological invasions. Here, we aim to provide local management suggestions under both current and future higher temperature regimes. We employ a Bayesian framework joint species distribution modeling (JSDM) approach that integrates comprehensive abundance data with environmental variables and ecological traits to model the distributions and diversity of 44 vascular aquatic plants and charophytes in three shallow lakes in southwestern France. Our environmental variables included not only physical properties (temperature and wind exposure) but also anthropogenic disturbance (land use and accessibility), shoreline curvature, underwater topography, and the occurrence rate (temporary or permanent) of water and wetness. Subsequently, we use percentile-threshold-based spatial prioritization to identify hotspots. Our results show that macrophyte habitat suitability and native species diversity generally decrease across species and lakes under warming. However, the habitat suitability decrease is larger for native isoetid species than for invasives, and in some lakes, individual invasive species are forecasted to expand. This suggests a potential forthcoming change in community composition that may lead to higher lacustrine trophic states and impair the provisioning of ecosystem services. Therefore, we suggest immediately adopting adaptive management principles at the identified sites of concern, including the control of already present invasives and targeted monitoring for invasives at potential colonization sites.
+
+# DOI pointing to the associtaed article
+To be made available after accptance.
+
+# Please cite as
+Wunderlich, R.F., Jamoneau, A., Boutry, S., Hosni, M., Bertrin, V., 2024. Model-Based Management of Native and Invasive Macrophytes in Shallow Lakes of South-Western France Under Warming.
