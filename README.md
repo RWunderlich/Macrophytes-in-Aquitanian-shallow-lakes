@@ -2,13 +2,29 @@
 Repository for the paper titled "Model-Based Management of Native and Invasive Macrophytes in Shallow Lakes of South-Western France Under Warming"
 
 # Abstract
-Macrophytes are a critical component of freshwater ecosystems, harboring significant biodiversity and providing essential resources and services. However, their habitat faces multifaceted challenges from global change, local anthropogenic disturbance, and biological invasions. Here, we aim to provide local management suggestions under both current and future higher temperature regimes. We employ a Bayesian framework joint species distribution modeling (JSDM) approach that integrates comprehensive presence-absence data with environmental variables and ecological traits to model the distributions and diversity of 44 vascular aquatic plants and charophytes in three shallow lakes in southwestern France. Our environmental variables included not only physical properties (temperature and wind exposure) but also anthropogenic disturbance (land use and accessibility), shoreline curvature, underwater topography, and the occurrence rate (temporary or permanent) of water and wetness. Subsequently, we use percentile-threshold-based spatial prioritization to identify hotspots. Our results show that macrophyte habitat suitability and native species diversity generally decrease across species and lakes under warming. However, the habitat suitability decrease is larger for native isoetid species than for invasives, and in some lakes, individual invasive species are forecasted to expand. This suggests a potential forthcoming change in community composition that may lead to higher lacustrine trophic states and impair the provisioning of ecosystem services. Therefore, we suggest immediately adopting adaptive management principles at the identified sites of concern, including the control of already present invasives and targeted monitoring for invasives at potential colonization sites.
-
+Macrophytes are a critical component of freshwater ecosystems, harboring significant biodiversity and providing
+essential resources and services. However, their habitat faces multifaceted challenges from climate change, local
+anthropogenic disturbance, and biological invasions. Here, we aim to provide local management suggestions
+under both current and future higher temperature regimes. Using joint species distribution modeling (JSDM), we
+integrate comprehensive presence-absence data with environmental variables and ecological traits to predict the
+distributions and diversity of 44 vascular aquatic plant and charophyte species in three shallow lakes (435 sites in
+total) in southwestern France. The environmental variables considered included physical properties (including
+current surface temperature and a 2 ◦C warming scenario), anthropogenic disturbance, shoreline curvature,
+underwater topography, and the occurrence rate (temporary or permanent) of water and wetness. Subsequently,
+we use percentile-threshold-based spatial prioritization to identify conservation management hotspots. Our re
+sults show that macrophyte habitat suitability is largely influenced by land-use and human accessibility.
+Moreover, macrophyte habitat suitability and native species diversity generally decrease across lakes under
+warming. However, the decrease in habitat suitability is greater for native isoetid species than for invasive
+species—suggesting a potential forthcoming cascade of changing community composition, higher lacustrine
+trophic states, and impaired provisioning of ecosystem services. Therefore, we suggest immediately adopting
+adaptive management principles at the identified conservation management hotspots, including the control of
+and targeted monitoring for invasives as well as conservation and restoration measures for native species, in
+particular isoetids.
 # DOI pointing to the associtaed article
 To be made available after acceptance.
 
 # Please cite as
-Wunderlich, R.F., Jamoneau, A., Boutry, S., Hosni, M., Bertrin, V., 2024. Model-Based Management of Native and Invasive Macrophytes in Shallow Lakes of South-Western France Under Warming.
+Wunderlich, R.F., Jamoneau, A., Boutry, S., Hosni, M., Bertrin, V., 2025. Model-Based Management of Native and Invasive Macrophytes in Shallow Lakes of South-Western France Under Warming. Journal of Environmental Management XX(), xxx-xxx.
 
 # Acknowledgments
 We thank Benjamin Weigel for advice regarding the calibration of models. We are also grateful to Albin Meyer for helpful discussions. This project was supported by grants from AAA (no. AAA) and BBB (no. BBB). Copernicus Land Monitoring Service products and services used in this study were produced with funding by the European Union.
