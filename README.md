@@ -20,7 +20,7 @@ trophic states, and impaired provisioning of ecosystem services. Therefore, we s
 adaptive management principles at the identified conservation management hotspots, including the control of
 and targeted monitoring for invasives as well as conservation and restoration measures for native species, in
 particular isoetids.
-# DOI pointing to the associtaed article
+# DOI
 To be made available after acceptance.
 
 # Please cite as
