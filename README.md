@@ -8,7 +8,7 @@ Macrophytes are a critical component of freshwater ecosystems, harboring signifi
 doi.org/10.1016/j.jenvman.2025.124543
 
 # Please cite as
-Wunderlich, R.F., Jamoneau, A., Boutry, S., Hosni, M., Bertrin, V., 2025. Model-Based Management of Native and Invasive Macrophytes in Shallow Lakes of South-Western France Under Warming. Journal of Environmental Management XX(), xxx-xxx.
+Wunderlich, R.F., Jamoneau, A., Boutry, S., Hosni, M., Bertrin, V., 2025. Model-Based Management of Native and Invasive Macrophytes in Shallow Lakes of South-Western France Under Warming. Journal of Environmental Management 378, 124543. 
 
 # Acknowledgments
 We thank Benjamin Weigel for sound advice related to joint species distribution modeling. We are also grateful to Albin Meyer, Quentin Petitjean, and Margaux Herschel for helpful and often entertaining discussions. This study was part of the Vigie-Lac project and financially supported by the Adour-Garonne Water Agency (№ 310 33 01917) and ESR Nouvelle-Aquitaine Region (№ AAPR2022-2021-17081910). Copernicus Land Monitoring Service products and services used in this study were produced with funding by the European Union.
